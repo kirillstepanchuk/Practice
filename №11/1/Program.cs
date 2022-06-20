@@ -71,7 +71,7 @@ namespace task1
         public override void GetInfo()
         {
             Dlina();
-            WriteLine($"Название: {name}\n Компоненты: {komponenti}\n Длина: {dlina}");
+            WriteLine($"Название: {name}\n Компоненты: {razmernosc}\n Длина: {dlina}");
         }
     }
 

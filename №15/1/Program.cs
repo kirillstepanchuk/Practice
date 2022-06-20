@@ -32,7 +32,7 @@ namespace task1
         {
             MyList <int> list = new MyList<int>();
             list.Add(2121);
-            list.Add(21933434389);
+            list.Add(21933434);
             list.Add(21121);
             WriteLine($"Элемент с индексом 1: {list[1]}");
             WriteLine($"Длина: {list.Length}");

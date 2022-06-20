@@ -47,7 +47,7 @@ namespace task2
             list.Add("key12?", 200002);
             list.Add("key13!", 101);
             list.Add("key14", 5345353);
-            WriteLine("Элемент с ключем 'smth': " + list["smth"]);
+            WriteLine("Элемент с ключем 'key14': " + list["key14"]);
             WriteLine("Количество пар: " + list.Length);
         }
     }
